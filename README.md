@@ -1,4 +1,4 @@
-![Beyond Hello World: Getting Deeper into Azure Functions](Thumbnail.jpg)
+![Beyond Hello World: Getting Deeper into Azure Functions](Thumbnail.png)
 
 ## Abstract
 By now, you surely have seen the HTTP trigger within Azure Functions. Just about every presentation uses that trigger to show how awesome Azure Functions can be. But there is a bunch more you can do with Azure Functions using the other triggers and bindings, which make Azure Functions a fantastic tool in your tool chest for solving all sorts of needs. So come and hear about these triggers and bindings and see real-world examples of how they have been employed in different solutions to solve real customer needs.
@@ -31,4 +31,4 @@ There is more to Azure Functions than just the HTTP trigger; come to see real-wo
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-This is a new talk that has not been scheduled yet.
+| Prairie Dev Con Winnipeg | Winnipeg, MB | June 12 - 13, 2023 | TBA | TBA | Available Afterwards |
