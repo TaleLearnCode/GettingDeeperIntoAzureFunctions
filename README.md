@@ -31,4 +31,4 @@ There is more to Azure Functions than just the HTTP trigger; come to see real-wo
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| Prairie Dev Con Winnipeg | Winnipeg, MB | June 12 - 13, 2023 | TBA | TBA | Available Afterwards |
+| [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | June 12, 2023 | 11:00 AM CDT | A2 | [Slides](Presentations/BeyondHelloWorld_GettingDeeperIntoAzureFunctions-PDCWinnipeg.pdf) |
