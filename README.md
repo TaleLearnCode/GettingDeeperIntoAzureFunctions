@@ -31,4 +31,5 @@ There is more to Azure Functions than just the HTTP trigger; come to see real-wo
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Beer City Code](https://www.beercitycode.com/) | Grand Rapids, MI | August 5, 2023 | 4:00 PM EDT | Room 255 | [Slides](Presentations/BeyondHelloWorld_GettingDeeperIntoAzureFunctions-BeerCityCode.pdf) |
 | [Prairie Dev Con Winnipeg](https://www.prairiedevcon.com/winnipeg.html) | Winnipeg, MB | June 12, 2023 | 11:00 AM CDT | A2 | [Slides](Presentations/BeyondHelloWorld_GettingDeeperIntoAzureFunctions-PDCWinnipeg.pdf) |
