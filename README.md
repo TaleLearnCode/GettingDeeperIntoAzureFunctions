@@ -34,10 +34,12 @@ You surely have seen the HTTP trigger within Azure Functions. Every presentation
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Tech Bash 2024](https://www.techbash.com/) | Pocono Manor, PA | September 25, 2024 | 10:20 AM EDT | Salons EF | Available Afterwards |
 | Beer City Code | Grand Rapids, MI | August 5, 2023 | 4:00 PM EDT | Room 255 | [Slides](./EventMaterials/BeyondHelloWorld_GettingDeeperIntoAzureFunctions-BeerCityCode.pdf)|
 | Prairie Dev Con Winnipeg | Winnipeg, MB | June 12, 2023 | 11:00 AM CDT | A2 | [Slides](./EventMaterials/BeyondHelloWorld_GettingDeeperIntoAzureFunctions-PDCWinnipeg.pdf) |
 
-## Resources
-There are no additional resources for this presentation.
-
 Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Getting%20Deeper%20Into%20Azure%20Functions) to have Chad present this session at your event.
+
+## Resources
+
+There are no additional resources for this presentation.
